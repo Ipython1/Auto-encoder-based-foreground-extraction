@@ -1,1 +1,1 @@
-# Auto-encoder-based-foreground-extraction
+# Auto-encoder-based-extraction of dyanamics from videos
