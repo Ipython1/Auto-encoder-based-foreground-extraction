@@ -1,1 +1,1 @@
-# Auto-encoder-based-extraction of dyanamics from videos
+# Auto-encoder-based-extraction of dynamics from videos
